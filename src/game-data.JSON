@@ -1,0 +1,48 @@
+{
+  "playerInfo": {
+    "playerStats": {
+      "playerHealth": 100,
+      "playerArmour": 0,
+      "playerMana": 50,
+      "playerStealth": 1,
+      "playerCharisma": 1,
+      "playerLuck": 1,
+      "playerCarryWeight": 0
+    },
+
+    "playerItems": {
+      "currentWeapon": "Fists",
+      "currentArmour": "NA",
+      "numOfHealthPotions": 0,
+      "numOfManaPotions": 0
+    },
+
+    "playerStoredItems": {
+      "playerArmourSet": {
+        "nightingale": false,
+        "leather": false,
+        "iron": false,
+        "steel": false,
+        "draconian": false,
+        "divine": false,
+        "unholy": false
+      },
+      "playerWeapons": {
+        "fists": true,
+        "crackedKnife": false,
+        "refinedDagger": false,
+        "exquisiteDagger": false,
+        "kukri": false,
+        "rustySword": false,
+        "fineSword": false,
+        "qualitySword": false,
+        "excalibur": false,
+        "wornKatana": false,
+        "fineKatana": false,
+        "qualityKatana": false,
+        "masamune": false,
+        "assassin": false
+      }
+    }
+  }
+}
